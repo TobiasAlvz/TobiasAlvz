@@ -1,6 +1,7 @@
 ## Olá! Eu sou Tobias Alves
 
-- 🌱 Estudante do curso de Sistemas de informação na UFRPE 4/10 e fazendo cursos de HTML e CSS
+- 🌱 Estudante do curso de Sistemas de informação na UFRPE 4/10 e futuro dev Web
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
