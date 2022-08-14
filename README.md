@@ -1,4 +1,4 @@
-<h1 align="center">OI!</h1>
+<h1 align="left">Oi!</h1>
 <h3 align="left">Eu sou Tobias Alves.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiasalvz&label=Profile%20views&color=0e75b6&style=flat" alt="tobiasalvz" /> </p>
