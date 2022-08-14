@@ -1,4 +1,5 @@
-<h3 align="center">Eu sou Tobias Alves.</h3>
+<h1 align="center">OI!</h1>
+<h3 align="left">Eu sou Tobias Alves.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiasalvz&label=Profile%20views&color=0e75b6&style=flat" alt="tobiasalvz" /> </p>
 
@@ -18,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiasalvz&show_icons=true&locale=en" alt="tobiasalvz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasalvz&" alt="tobiasalvz" /></p>
-
-
