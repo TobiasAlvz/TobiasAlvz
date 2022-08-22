@@ -1,7 +1,7 @@
 <h1 align="left">Oi!</h1>
 <h3 align="left">Eu sou Tobias Alves.</h3>
 <hr>
-<h4>Sou Desenvolvedor Web Front End</h4>
+<h4>Sou Desenvolvedor Web Full Stack</h4>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100" width="100" alt="godot logo"  />
