@@ -28,7 +28,8 @@
 <div align="center">
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasAlvz&theme=nightowl&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiaasAlvz&theme=nightowl&show_icons=true)
+  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=TobiasAlvz" height="200" alt="languages graph"  />
 </div>
