@@ -18,7 +18,7 @@
  <a target="_blank" href ='https://www.instagram.com/tobias_alvz/'>
  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-   <a target="_blank" href='https://www.linkedin.com/in/tobias josé alves ribeiro' target="_blank">
+   <a target="_blank" href="https://www.linkedin.com/in/tobias-jos%C3%A9-alves-ribeiro-29b433242/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
